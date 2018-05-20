@@ -1,8 +1,8 @@
 # new-sample
-#include <stdio.h>
-#include <math.h>
+#include <stdio.h>  
+#include <math.h>  
 void insertion_sort (int arr[], int length)  
-{
+{  
 	int j, temp;  
 		
            for (int i = 0; i < length; i++)  
